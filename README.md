@@ -9,3 +9,8 @@ Then run below sql command
 
 
 insert into roles values(1,'ROLE_ADMIN'); insert into roles values(2,'ROLE_USER);
+
+For APis tesing purpose, in the below link you found a postman json file and some imsges for clear view.
+
+https://drive.google.com/drive/folders/1fsrRskLeZ639NULTEp2PZ5ZPQVRcz5V4?usp=sharing
+
