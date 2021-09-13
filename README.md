@@ -4,6 +4,9 @@ Task Manager is a Task Tracking Application. It manages different types of Proje
 
 Please clone this project and modify application.properties file. Provide mysql user name & password. Build & Run the Application database will be create automatically. 
 
+To check application running status. Please use http://localhost:8082/actuator/health
+It gives {"status":"UP"}
+
 
 Then run below sql command
 
